@@ -1,4 +1,4 @@
-# Book-Review-Application-with-React-and-Spring-Boot---MongoDB - Frontend
+# Book-Review-Application-with-React-and-Spring-Boot---MongoDB - Backend
 
 This project is a review application developed using React and Spring Boot, integrated with a MongoDB database. The application allows users to see the book information like author, genre and various photos of the book and to add reviews about the books.
 
