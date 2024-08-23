@@ -1,0 +1,59 @@
+[
+    {
+      "grId": "52578297",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Sci-fiction",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQrFywxN3VRjYrZf4AdjyjIRVvZ7Qr44cVA&s",
+      "backdrops": [
+        "https://the-bibliofile.com/socialimages/midnightlibrarysocial.png"
+      ],
+      "reviewIds": []
+    },
+    {
+        "grId": "10534",
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "genre": "Treatise",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrybTXEaSnMtD5-63S3vu_BuuRYOft4SSN6A&s",
+        "backdrops": [
+          "https://m.media-amazon.com/images/I/9119oB2-jtL._AC_UF1000,1000_QL80_.jpg"
+        ],
+        "reviewIds": []
+      },
+      {
+        "grId": "62047984",
+        "title": "Yellowface",
+        "author": "R. F. Kuang",
+        "genre": "Thriller",
+        "poster": "https://media.npr.org/assets/img/2023/05/15/yellowface_custom-bb24ca6402e125084e128013c552baa05d5e3ba2.jpg",
+        "backdrops": [
+          "https://featzreviews.com/wp-content/uploads/2023/11/yellowface-BB-1536x864.jpg",
+          "https://hips.hearstapps.com/hmg-prod/images/author-rf-kuang-yellow-index-2000x1000-51823-ddm-645eae711aae3.jpg"
+        ],
+        "reviewIds": []
+      },
+      {
+        "grId": "62971668",
+        "title": "Someone Else's Shoes",
+        "author": "Jojo Moyes",
+        "genre": "Sci-fiction",
+        "poster": "https://m.media-amazon.com/images/I/714FRpExPmL._AC_UF894,1000_QL80_.jpg",
+        "backdrops": [
+          "https://booktrib.com/wp-content/uploads/2023/02/Someone-Elses-Shoes-by-Jojo-Moyes.jpg"
+        ],
+        "reviewIds": []
+      },
+      {
+        "grId": "60654349",
+        "title": "Weyward",
+        "author": "Emilia Hart",
+        "genre": "Historical-fiction",
+        "poster": "https://m.media-amazon.com/images/I/91qCWeahwpL._AC_UF1000,1000_QL80_.jpg",
+        "backdrops": [
+          "https://miro.medium.com/v2/resize:fit:828/format:webp/1*YTZNHY5C1HseLAHd2cr7xA.png"
+        ],
+        "reviewIds": []
+      }
+]
+
