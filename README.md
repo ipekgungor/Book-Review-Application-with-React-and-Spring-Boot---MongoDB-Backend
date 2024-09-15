@@ -13,6 +13,19 @@ This project is a review application developed using React and Spring Boot, inte
 - **Maven:** 
 - **MongoDB:** Database management system
 
+## Installation Instructions
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ipekgungor/Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Backend.git
+   cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Backend.git
+2. Run the application:
+   ```bash
+   mvn clean install
+   mvn spring-boot:run
+3. Once the application is running, navigate to http://localhost:8080 to use the app.
+
 ## Contact
 - **Developer:** İpek Güngör
 - **Email:** ipekgungor2001@gmail.com
