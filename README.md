@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ipekgungor/Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Backend.git
-   cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Backend.git
+   cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Backend
 2. Run the application:
    ```bash
    mvn clean install
